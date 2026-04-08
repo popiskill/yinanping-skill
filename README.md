@@ -4,8 +4,6 @@
 
 **当年之事，彼此各有难处**
 
-上传你和 TA 的聊天记录，AI 学习 TA 的性格，模拟「如果在一起」会怎样
-
 [![GitHub stars](https://img.shields.io/github/stars/popiskill/yinanping-skill?style=social)](https://github.com/popiskill/yinanping-skill/stargazers)
 [![GitHub license](https://img.shields.io/github/license/popiskill/yinanping-skill)](https://github.com/popiskill/yinanping-skill/blob/main/LICENSE)
 
