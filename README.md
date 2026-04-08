@@ -1,10 +1,17 @@
+<div align="center">
+
 # 🥀 意难平
 
-![意难平 Banner](./assets/banner.png)
+**把「意难平」变成一场跨时空对话**
 
-> 把「意难平」变成一场跨时空对话
+上传你和 TA 的聊天记录，AI 学习 TA 的性格，模拟「如果在一起」会怎样
 
-**一句话介绍**：上传你和 TA 的聊天记录，AI 学习 TA 的性格，模拟「如果在一起」会怎样。
+[![GitHub stars](https://img.shields.io/github/stars/popiskill/yinanping-skill?style=social)](https://github.com/popiskill/yinanping-skill/stargazers)
+[![GitHub license](https://img.shields.io/github/license/popiskill/yinanping-skill)](https://github.com/popiskill/yinanping-skill/blob/main/LICENSE)
+
+<img src="./assets/banner.png" alt="意难平 Banner" width="100%">
+
+</div>
 
 ---
 
@@ -103,6 +110,12 @@ yinanping/
 
 ---
 
+<div align="center">
+
 ## 📄 License
 
 MIT License - 自由使用，欢迎 Fork
+
+**Made with ❤️ by [popiskill](https://github.com/popiskill)**
+
+</div>
