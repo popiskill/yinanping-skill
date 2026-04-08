@@ -1,0 +1,38 @@
+{
+  "name": "yinanping",
+  "version": "1.0.0",
+  "description": "把「意难平」变成一场跨时空对话。上传聊天记录，AI学习TA的性格，模拟「如果在一起」会怎样。支持爱情、友情、亲情、一面之缘等多种关系类型。",
+  "author": "EDY",
+  "license": "MIT",
+  "keywords": [
+    "意难平",
+    "前任",
+    "暗恋",
+    "模拟对话",
+    "角色扮演",
+    "情感",
+    "疗愈",
+    "parallel-world"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "openclaw": ">=1.0.0"
+  },
+  "skills": [
+    {
+      "name": "意难平",
+      "path": ".",
+      "description": "把「意难平」变成一场跨时空对话。上传聊天记录，AI学习TA的性格，模拟「如果在一起」会怎样。"
+    }
+  ],
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "WORKFLOW.md",
+    "prompts/*.md",
+    "tools/*.py"
+  ]
+}

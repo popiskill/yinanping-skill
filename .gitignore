@@ -1,0 +1,19 @@
+# 只保留示例格式，不保留用户数据
+personas/*.json
+!personas/.gitkeep
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
